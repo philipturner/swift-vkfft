@@ -1,2 +1,1 @@
-# swift-vkfft
-Swift bindings for VkFFT
+# Swift bindings for VkFFT
